@@ -1,0 +1,5 @@
+com\chevrolet\trainings\jaxrs\Partnerid.class
+com\chevrolet\trainings\jaxrs\PartnerService.class
+com\chevrolet\trainings\jaxrs\Adcontent.class
+com\chevrolet\trainings\jaxrs\Duration.class
+com\chevrolet\trainings\jaxrs\PartnerServiceImpl.class
